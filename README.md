@@ -24,35 +24,51 @@
 
 <table width="100%" align="center" style="border-spacing: 15px; border-collapse: separate;">
   <tr valign="top">
-    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
-      <h3><span style="font-size: 2em;">📱</span> Gear 1st: Mobile Development</h3>
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px; border: 1px solid #ddd;">
+      <h3><span style="font-size: 2em;">📱</span><br>Gear 1st: Mobile Development</h3>
       <p><em>Gomu Gomu no Pistol!</em></p>
-      <p>Building intuitive apps directly into users' hands.</p>
-      <p><strong>iOS:</strong> <code>Swift</code> & <code>SwiftUI</code></p>
-      <p><strong>Android:</strong> <code>Kotlin</code> (Compose) & <code>Java</code> (XML)</p>
+      <p>My primary form! I stretch my capabilities to bring solutions directly to the people, crafting mobile experiences that are both powerful and intuitive.</p>
+      <ul style="text-align: left; list-style-position: inside;">
+        <li><strong>iOS:</strong> Seamless native apps using <code>Swift</code> & <code>SwiftUI</code>.</li>
+        <li><strong>Android:</strong> Robust apps with <code>Kotlin</code> (Compose) & <code>Java</code> (XML).</li>
+      </ul>
     </td>
-    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
-      <h3><span style="font-size: 2em;">🚀</span> Gear 2nd: AI & Deep Learning</h3>
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px; border: 1px solid #ddd;">
+      <h3><span style="font-size: 2em;">🚀</span><br>Gear 2nd: AI & Deep Learning</h3>
       <p><em>Gomu Gomu no Jet Gatling!</em></p>
-      <p>Accelerating logic to craft intelligent, learning systems.</p>
-      <p><strong>Generative AI & Agents</strong></p>
-      <p><code>Python</code>, <code>DL</code> (Neural Networks)</p>
-      <p><code>Core Java</code> & <code>DSA</code> (Foundation)</p>
+      <p>With Gear 2nd, I accelerate my logic circuits into the realm of AI. My mind races with algorithms, executing with lightning speed to create intelligent systems.</p>
+      <ul style="text-align: left; list-style-position: inside;">
+        <li><strong>Specialty:</strong> Generative AI & AI Agent Development.</li>
+        <li><strong>Weapons:</strong> <em>Haki-infused</em> <code>Python</code> scripts & Neural Networks.</li>
+        <li><strong>Foundation:</strong> Core <code>Java</code> & <code>DSA</code>.</li>
+      </ul>
     </td>
-    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
-      <h3><span style="font-size: 2em;">🏗️</span> Gear 3rd: Backend Alchemy</h3>
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px; border: 1px solid #ddd;">
+      <h3><span style="font-size: 2em;">🏗️</span><br>Gear 3rd: Backend Alchemy</h3>
       <p><em>Gomu Gomu no Elephant Gun!</em></p>
-      <p>Forging robust, scalable foundations.</p>
-      <p><strong>Tech:</strong> <code>Node.js</code>, <code>Django</code>, <code>Databases</code>, <code>Cloud (AWS/GCP)</code></p>
-      <p>API Design & Scalable Architecture</p>
+      <p>I construct the colossal, unbreakable infrastructure that supports our grand ventures, ensuring our ship can withstand any storm.</p>
+      <ul style="text-align: left; list-style-position: inside;">
+        <li><strong>Forte:</strong> API Design & Scalable Architecture.</li>
+        <li><strong>Shipyard:</strong> <code>Node.js</code>, <code>Databases (SQL/NoSQL)</code>, <code>Cloud (AWS/GCP)</code>.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<div align="center" style="margin-top: 20px; background-color: #e0f2f7; border-radius: 10px; padding: 15px;">
-  <h3><span style="font-size: 2em;">⚡</span> Gear 4th: Full-Stack Fusion</h3>
-  <p><em>Boundman!</em></p>
-  <p>Combining all powers: designing and building end-to-end solutions, seamlessly integrating AI brains into mobile apps via robust backends.</p>
+<div align="center" style="margin-top: 20px;">
+  <div style="width: 90%; background: linear-gradient(135deg, #485461 0%, #28313b 100%); color: #ecf0f1; border-radius: 15px; padding: 25px; border: 1px solid #485461;">
+    <h1 align="center" style="font-size: 3em; margin: 0;">⚡</h1>
+    <h2 align="center" style="margin-top: 5px;">Gear 4th: Full-Stack Fusion</h2>
+    <p align="center"><em>Boundman & Snakeman!</em></p>
+    <p align="center">
+      This is my ultimate form—the synthesis of power, speed, and scale. In Gear 4th, I combine the reach of Mobile, the intelligence of AI, and the foundation of Backend to unleash the true potential of an idea from concept to completion.
+    </p>
+    <hr style="border-color: #485461;">
+    <ul style="text-align: left; list-style-position: inside;">
+      <li><strong>Holistic Vision:</strong> Designing and building complete end-to-end solutions, from the deepest algorithm in the cloud to the user's touch on the screen.</li>
+      <li><strong>Seamless Integration:</strong> Expertly weaving powerful AI models directly into mobile applications, making intelligent features feel natural and intuitive.</li>
+    </ul>
+  </div>
 </div>
 
 ---
