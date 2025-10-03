@@ -70,8 +70,6 @@
   </div>
 </div>
 
----
-
 <div align="center">
   <h2>🔥 The Marineford Arc: My Achievements! 🔥</h2>
   <p><em>Through fierce battles and unwavering spirit, I’ve proven my mettle!</em></p>
@@ -82,8 +80,6 @@
   <li>🛠️ <strong>AI-Powered Products:</strong> Launched impactful solutions blending deep learning & mobile.</li>
   <li>🚀 <strong>High-Rank Finishes:</strong> Proved my Haki in competitive coding.</li>
 </ul>
-
----
 
 <div align="center">
   <h2>🤝 Looking for Nakama! 🤝</h2>
