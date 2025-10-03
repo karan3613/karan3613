@@ -80,7 +80,7 @@
 </ul>
 
 <div align="center">
-  <h2>🤝 Looking for Nakama! 🤝</h2>
+  <h2>🤝 Looking for Fellow Dreamers! 🤝</h2>
   <p>
     Join me on the ultimate voyage: the hunt for the **One Piece of Code**.<br>
     Our mission is to chart the tech Grand Line, creating a legacy map for future adventurers.
