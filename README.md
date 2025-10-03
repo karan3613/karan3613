@@ -6,26 +6,7 @@ Yeah, I said it. While others were choosing between frontend or backend, mobile 
 I'm the developer who turns impossible projects into shipped products. The one who brings AI, mobile, and backend together like a perfect team jutsu. And just like Naruto, I never back down from a challenge.
 
 🦊 My Ninja Way: The Three-Tailed Beast Inside Me
-javascript
-// Inside every great developer is a chakra system of skills
-class Uzumaki_Dev {
-    constructor() {
-        // Three powerful forces, each a complete fighting style
-        this.kurama = {
-            tail_1: "Native Mobile Development",    // Speed & Precision
-            tail_2: "AI & Deep Learning",          // Raw Intelligence  
-            tail_3: "Scalable Backend Systems"     // Unlimited Stamina
-        };
-    }
-    
-    unleashPower(challenge) {
-        // Can fight with one tail or unleash all three
-        // Either way, the mission gets completed!
-        return this.kurama.transform(challenge);
-    }
-}
 
-// Dattebayo! 🍥
 📱 One-Tail Mode: Native Mobile Development
 My fastest and most refined technique—like Naruto's speed in KCM mode!
 
