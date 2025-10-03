@@ -63,8 +63,7 @@
     <p align="center">
       This is my ultimate form—the synthesis of power, speed, and scale. In Gear 4th, I combine the reach of Mobile, the intelligence of AI, and the foundation of Backend to unleash the true potential of an idea from concept to completion.
     </p>
-    <hr style="border-color: #485461;">
-    <ul style="text-align: left; list-style-position: inside;">
+    <ul style="text-align: left; list-style-position: inside; margin-top: 15px;">
       <li><strong>Holistic Vision:</strong> Designing and building complete end-to-end solutions, from the deepest algorithm in the cloud to the user's touch on the screen.</li>
       <li><strong>Seamless Integration:</strong> Expertly weaving powerful AI models directly into mobile applications, making intelligent features feel natural and intuitive.</li>
     </ul>
