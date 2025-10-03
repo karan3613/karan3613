@@ -56,8 +56,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <div style="width: 90%; background: linear-gradient(135deg, #485461 0%, #28313b 100%); color: #ecf0f1; border-radius: 15px; padding: 25px; border: 1px solid #485461;">
-    <h1 align="center" style="font-size: 3em; margin: 0;">⚡</h1>
-    <h2 align="center" style="margin-top: 5px;">Gear 4th: Full-Stack Fusion</h2>
+    <h2 align="center" style="margin-top: 5px;">⚡Gear 4th: Full-Stack Fusion</h2>
     <p align="center"><em>Boundman & Snakeman!</em></p>
     <p align="center">
       This is my ultimate form—the synthesis of power, speed, and scale. In Gear 4th, I combine the reach of Mobile, the intelligence of AI, and the foundation of Backend to unleash the true potential of an idea from concept to completion.
