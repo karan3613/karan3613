@@ -1,75 +1,145 @@
-🏴‍☠️ Monkey D. [Your Name/GitHub Username]
-My dream isn't about a title. It's about finding the One Piece – that legendary piece of code that will change the world!
+<div align="center">
+
+# 🏴‍☠️ Monkey D. [Your Name/GitHub Username] 🏴‍☠️
+
+> "My dream isn't about a title. It's about finding the **One Piece** – that legendary piece of code that will change the world!"
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFzOTV1MmxoN3FqOGU1Z2M1dXV2d25qa3k0a3o0cTV3MnFqMGg2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J1cmDaGSlI40/giphy.gif" alt="Luffy GIF" width="400"/>
+
+</div>
+
+---
+
+<h2 align="center">🗺️ Captain's Log 🗺️</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFzOTV1MmxoN3FqOGU1Z2M1dXV2d25qa3k0a3o0cTV3MnFqMGg2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9J1cmDaGSlI40/giphy.gif" alt="Luffy GIF" width="400"/>
+  Ahoy! I'm a developer sailing the vast seas of technology. My ship is built with code, my compass is powered by AI, and my destination is the edge of innovation. I don't just write code; I go on adventures, battling complex problems and discovering legendary solutions.
 </p>
 
-🗺️ Captain's Log
-Ahoy! I'm a developer sailing the vast seas of technology. My ship is built with code, my compass is powered by AI, and my destination is the edge of innovation. I don't just write code; I go on adventures, battling complex problems and discovering legendary solutions.
+<table align="center" style="width:80%">
+  <tr>
+    <td align="center"><strong>🏴‍☠️ Role</strong></td>
+    <td align="center"><strong>🧭 Quest</strong></td>
+    <td align="center"><strong>📜 Mission</strong></td>
+  </tr>
+  <tr>
+    <td align="center">AI/DL Engineer & Mobile Developer</td>
+    <td align="center">Finding the <strong>One Piece of Code</strong></td>
+    <td align="center">To map the tech Grand Line for the next generation!</td>
+  </tr>
+</table>
 
-🏴‍☠️ Role: AI/DL Engineer & Mobile Developer
+---
 
-🧭 Quest: Finding the One Piece of Code
+<h2 align="center">🌟 My Devil Fruit Powers: The Gears of Innovation 🌟</h2>
 
-📜 Mission: To map the tech Grand Line for the next generation of coders!
+<table align="center" width="100%">
+  <tr valign="top">
+    <td width="150" align="center">
+      <img src="https://i.imgur.com/gYd5Z2i.png" width="80" alt="Gear 1st Icon"/>
+      <h3>Gear 1st</h3>
+      <i>Gomu Gomu no Pistol!</i>
+    </td>
+    <td>
+      <h3>Mobile Development</h3>
+      <p>Stretching my ideas directly into the user's hands with intuitive and powerful mobile applications.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="150" align="center">
+      <img src="https://i.imgur.com/aoz3c8s.png" width="80" alt="Gear 2nd Icon"/>
+      <h3>Gear 2nd</h3>
+      <i>Gomu Gomu no Jet Gatling!</i>
+    </td>
+    <td>
+      <h3>AI & Deep Learning</h3>
+      <p>Accelerating logic and data at lightning speed to create intelligent systems that think and learn.</p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="150" align="center">
+      <img src="https://i.imgur.com/7gNn4sL.png" width="80" alt="Gear 3rd Icon"/>
+      <h3>Gear 3rd</h3>
+      <i>Gomu Gomu no Elephant Gun!</i>
+    </td>
+    <td>
+      <h3>Backend Alchemy</h3>
+      <p>Building the colossal, unbreakable infrastructure that powers every grand adventure.</p>
+      <details>
+        <summary><strong>My Shipyard (Tech Stack)</strong></summary>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        </p>
+      </details>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="150" align="center">
+      <img src="https://i.imgur.com/Vp3Yf3g.png" width="80" alt="Gear 4th Icon"/>
+      <h3>Gear 4th</h3>
+      <i>Boundman!</i>
+    </td>
+    <td>
+      <h3>Full-Stack Fusion</h3>
+      <p>Combining all my powers! I design and build end-to-end solutions, seamlessly integrating AI brains into intuitive mobile frontends, all supported by a robust backend.</p>
+    </td>
+  </tr>
+</table>
 
-🌟 My Devil Fruit Powers: The Gears of Innovation 🌟
-My skills are like Luffy's Gears, each one unlocking a new level of power to build incredible things.
+---
 
-📱 Gear 1st: Mobile Development [Gomu Gomu no Pistol!]
-Stretching my ideas directly into the user's hands with intuitive and powerful mobile applications.
+<h2 align="center">🔥 The Marineford Arc: Legendary Battles Won 🔥</h2>
 
-iOS: Swift & SwiftUI
+<table align="center" style="width:90%">
+  <tr>
+    <td width="60" align="center">🏆</td>
+    <td><strong>3x Hackathon Champion:</strong> Survived the fiercest 24-hour battles of innovation.</td>
+  </tr>
+  <tr>
+    <td width="60" align="center">🛠️</td>
+    <td><strong>AI-Powered Products Launched:</strong> Turned ambitious ideas into real-world, impactful solutions.</td>
+  </tr>
+  <tr>
+    <td width="60" align="center">🚀</td>
+    <td><strong>Multiple High-Rank Finishes:</strong> Proved my Haki in high-stakes competitive programming events.</td>
+  </tr>
+</table>
 
-Android: Kotlin (Jetpack Compose) & Java (XML)
+---
 
-🚀 Gear 2nd: AI & Deep Learning [Gomu Gomu no Jet Gatling!]
-Accelerating logic and data at lightning speed to create intelligent systems that think and learn.
+<h2 align="center">🤝 Looking for Nakama! 🤝</h2>
 
-Core: Python, Core Java, DSA
-
-Specialty: Generative AI, AI Agents, Neural Networks
-
-🏗️ Gear 3rd: Backend Alchemy [Gomu Gomu no Elephant Gun!]
-Building the colossal, unbreakable infrastructure that powers every grand adventure.
-
-Forte: API Design, Scalable Architecture, Database Management
-
-My Shipyard (Tech Stack):
-
-<details>
-<summary>Click to see my backend arsenal</summary>
-
-</details>
-
-⚡ Gear 4th: Full-Stack Fusion [Boundman!]
-Combining all my powers! I design and build end-to-end solutions, seamlessly integrating AI brains into intuitive mobile frontends, all supported by a robust backend.
-
-🔥 The Marineford Arc: Legendary Battles Won 🔥
-Every victory is a testament to the crew's strength. Here are some of my proudest moments:
-
-🏆 3x Hackathon Champion: Survived the fiercest battles of innovation.
-
-🛠️ AI-Powered Products Launched: Turned ambitious ideas into real-world solutions.
-
-🚀 Multiple High-Rank Finishes: Proved my Haki in high-stakes competitions.
-
-🤝 Looking for Nakama!
-My journey is far from over. I'm looking for fellow adventurers to join the crew!
-
-Our Voyage: The hunt for the One Piece of Code.
-
-Our Mission: To chart the tech Grand Line and create a map for future generations.
-
-If you share this vision, let's connect and set sail together!
-
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
+<p align="center">
+  My journey is far from over, and a captain is nothing without a crew.<br/>
+  If you share the vision of hunting for the <strong>One Piece of Code</strong> and mapping the future of technology, let's connect!
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-chouhan-57a337283/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Z4TCH3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanchouhan.3613@gmail.com) 
