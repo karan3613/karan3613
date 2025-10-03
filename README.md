@@ -15,7 +15,6 @@
   </p>
 </div>
 
----
 
 <div align="center">
   <h2>🌟 My Devil Fruit Powers: The Gears of Innovation! 🌟</h2>
