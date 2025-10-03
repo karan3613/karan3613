@@ -1,84 +1,95 @@
 <div align="center">
   <h1>🏴‍☠️ Monkey D. [Your Name/GitHub Username] 🏴‍☠️</h1>
   <h3><em>My Quest for the "One Piece" of Code!</em></h3>
-</div>
-
-<br>
-
-<div align="center">
-  <blockquote>
-    "My dream isn't about a title. It's about finding the <strong>One Piece</strong> – that legendary piece of code that will change the world!"
-    <br>
-    <em>- Monkey D. [Your Name]</em>
-  </blockquote>
-</div>
-
-<p align="center">
-  Welcome to my GitHub port, fellow adventurers! I'm a passionate and rubbery AI/DL Engineer, Mobile Developer, and Backend Alchemist, navigating the vast and challenging seas of the tech world – my very own Grand Line! Just like Luffy, I gather my crew of skills, pushing past limits and breaking down walls to build intelligent, scalable, and impactful solutions. My ultimate treasure? To discover and create the <strong>"One Piece" of code</strong> and, in doing so, help chart the course for the next generation of coders.
-</p>
-
-<hr>
-
-<div align="center">
-  <h2>🌟 My "Devil Fruit" Powers: The Gears of Innovation! 🌟</h2>
-  <p><em>Just as Luffy unleashes his Gears to overcome any foe, I activate my skills to conquer complex coding challenges across the seas of development!</em></p>
-</div>
-
-### Gear 1st: The Stretch of Mobile Development! 📱
-<p><em>(Expanding reach, making solutions universally accessible, and creating impactful user experiences – delivering a Gomu Gomu no Pistol directly to users' hands!)</em></p>
-
-My primary form! I stretch my capabilities to bring solutions directly to the people, crafting experiences that are both powerful and intuitive.
-<ul>
-  <li><strong>iOS Development:</strong> Crafting beautiful and seamless native apps using <code>Swift</code> & <code>SwiftUI</code>. <em>(Like an expanding fist, reaching users everywhere!)</em></li>
-  <li><strong>Android Development:</strong> Building robust and versatile applications with <code>Java (XML)</code> and modern <code>Kotlin (Jetpack Compose)</code>. <em>(My growing arm, ready to deliver powerful blows!)</em></li>
-</ul>
-
-### Gear 2nd: The Speed of AI & Deep Learning! 🚀
-<p><em>(Enhanced processing, rapid problem-solving, and powerful model deployment – accelerating innovation like a jet-powered punch!)</em></p>
-
-With Gear 2nd, I pump my logic circuits to accelerate into the realm of Artificial Intelligence. My mind races with algorithms, and my code executes with lightning speed!
-<ul>
-  <li><strong>Generative AI & AI Agent Development:</strong> Crafting intelligent entities that learn, adapt, and create – thinking for themselves!</li>
-  <li><strong>Python & Deep Learning:</strong> My <em>Haki-infused</em> Python scripts and finely tuned Neural Networks are my primary weapons, enabling me to design, train, and deploy powerful end-to-end AI models.</li>
-  <li><strong>Core Java & DSA:</strong> My foundational training, strengthening my problem-solving mindset and allowing me to punch through any logical barrier with precision.</li>
-</ul>
-
-### Gear 3rd: The Giant of Backend Alchemy! 🏗️
-<p><em>(Forging robust foundations, scaling infrastructure, and ensuring seamless data flow – building the unbreakable ship for our journey!)</em></p>
-
-When I activate Gear 3rd, I construct the colossal infrastructure that supports our grand ventures, ensuring our ship can withstand any storm.
-<ul>
-  <li><strong>My Tech Arsenal:</strong> <code>Node.js</code>, <code>Django</code>, <code>Spring Boot</code>, <code>Go</code>, Databases like <code>PostgreSQL</code>/<code>MongoDB</code>, and Cloud platforms like <code>AWS</code>/<code>GCP</code> are my tools for forging powerful and scalable server-side solutions.</li>
-  <li><strong>API Design & Development:</strong> Crafting the crucial communication lines between our mobile front-ends and AI brains.</li>
-  <li><strong>Scalable Architecture:</strong> Designing systems that can handle any tidal wave of users or data, ensuring our ship never sinks!</li>
-</ul>
-
-### Gear 4th: Boundman & Snakeman - Full Stack Fusion & AI Integration! ⚡
-<p><em>(Combining the best of all worlds – mobile, AI, and backend – to create flexible, high-impact products and seamlessly integrate intelligence! A true master of all forms!)</em></p>
-
-In Gear 4th, I bring together the raw power of Deep Learning, the user-centric design of Mobile Development, and the sturdy backbone of Backend Alchemy. This allows me to not only design robust backend and intuitive mobile experiences but also seamlessly embed advanced AI solutions into mobile applications, creating a unified and intelligent user journey.
-
-<hr>
-
-<div align="center">
-  <h2>🔥 The Marineford War Arc: My Achievements! 🔥</h2>
-  <p><em>Through fierce battles and unwavering spirit, I’ve proven my mettle against the toughest challenges! Just like the legendary battle at Marineford, my journey has been marked by intense challenges and hard-won victories that have forged my skills.</em></p>
-</div>
-<ul>
-  <li>🏆 <strong>3× Hackathon Winner + multiple high-rank finishes:</strong> Proof of my ability to rapidly innovate and deliver under pressure, just like a Straw Hat facing down a powerful adversary!</li>
-  <br>
-  <li>🛠️ <strong>Built Innovative, AI-Powered Products:</strong> Seamlessly blending deep learning, mobile development, and backend wizardry to create solutions that push boundaries and capture imaginations.</li>
-</ul>
-
-<hr>
-
-<div align="center">
-  <h2>🤝 Let's Set Sail Together! 🤝</h2>
+  
   <p>
-    I'm looking for <strong>Nakama</strong> to join me on the ultimate voyage: the hunt for the <strong>One Piece of Code</strong>. As we journey, our mission is to chart the unknown and draw a complete map of the tech Grand Line. This map will be our legacy, guiding the next generation of adventurers.
+    <blockquote>
+      "My dream isn't about a title. It's about finding the <strong>One Piece</strong> – that legendary piece of code that will change the world!"
+      <br>
+      <em>- Monkey D. [Your Name]</em>
+    </blockquote>
+  </p>
+  
+  <p>
+    Welcome, adventurers! I'm an AI/DL Engineer, Mobile Developer, and Backend Alchemist, navigating the tech Grand Line. Like Luffy, I gather my skills to build intelligent, scalable solutions. My treasure? The <strong>"One Piece" of code</strong> and charting the course for the next generation!
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🌟 My Devil Fruit Powers: The Gears of Innovation! 🌟</h2>
+  <p><em>Just as Luffy unleashes his Gears, I activate my skills to conquer coding challenges!</em></p>
+</div>
+
+<table width="100%" align="center" style="border-spacing: 15px; border-collapse: separate;">
+  <tr valign="top">
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
+      <h3><span style="font-size: 2em;">📱</span> Gear 1st: Mobile Development</h3>
+      <p><em>Gomu Gomu no Pistol!</em></p>
+      <p>Building intuitive apps directly into users' hands.</p>
+      <p><strong>iOS:</strong> <code>Swift</code> & <code>SwiftUI</code></p>
+      <p><strong>Android:</strong> <code>Kotlin</code> (Compose) & <code>Java</code> (XML)</p>
+    </td>
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
+      <h3><span style="font-size: 2em;">🚀</span> Gear 2nd: AI & Deep Learning</h3>
+      <p><em>Gomu Gomu no Jet Gatling!</em></p>
+      <p>Accelerating logic to craft intelligent, learning systems.</p>
+      <p><strong>Generative AI & Agents</strong></p>
+      <p><code>Python</code>, <code>DL</code> (Neural Networks)</p>
+      <p><code>Core Java</code> & <code>DSA</code> (Foundation)</p>
+    </td>
+    <td width="33%" align="center" style="background-color: #f8f8f8; border-radius: 10px; padding: 15px;">
+      <h3><span style="font-size: 2em;">🏗️</span> Gear 3rd: Backend Alchemy</h3>
+      <p><em>Gomu Gomu no Elephant Gun!</em></p>
+      <p>Forging robust, scalable foundations.</p>
+      <p><strong>Tech:</strong> <code>Node.js</code>, <code>Django</code>, <code>Databases</code>, <code>Cloud (AWS/GCP)</code></p>
+      <p>API Design & Scalable Architecture</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center" style="margin-top: 20px; background-color: #e0f2f7; border-radius: 10px; padding: 15px;">
+  <h3><span style="font-size: 2em;">⚡</span> Gear 4th: Full-Stack Fusion</h3>
+  <p><em>Boundman!</em></p>
+  <p>Combining all powers: designing and building end-to-end solutions, seamlessly integrating AI brains into mobile apps via robust backends.</p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 The Marineford Arc: My Achievements! 🔥</h2>
+  <p><em>Through fierce battles and unwavering spirit, I’ve proven my mettle!</em></p>
+</div>
+
+<ul style="list-style-type: none; padding: 0; text-align: center;">
+  <li>🏆 <strong>3× Hackathon Winner:</strong> Conquered intense innovation battles!</li>
+  <li>🛠️ <strong>AI-Powered Products:</strong> Launched impactful solutions blending deep learning & mobile.</li>
+  <li>🚀 <strong>High-Rank Finishes:</strong> Proved my Haki in competitive coding.</li>
+</ul>
+
+---
+
+<div align="center">
+  <h2>🤝 Looking for Nakama! 🤝</h2>
+  <p>
+    Join me on the ultimate voyage: the hunt for the **One Piece of Code**.<br>
+    Our mission is to chart the tech Grand Line, creating a legacy map for future adventurers.
   </p>
   <h3><em>If you share this vision, let's set sail together!</em></h3>
 </div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-chouhan-57a337283/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Z4TCH3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karanchouhan.3613@gmail.com) 
