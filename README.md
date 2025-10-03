@@ -6,7 +6,7 @@
     <strong>
       "My dream isn't about a title. It's about finding the <strong>One Piece</strong> – that legendary piece of code that will change the world!"
       <br>
-      <em>- Monkey D. Zatch</em>
+      <em>- Karan D. Zatch</em>
     </strong>
   </p>
   
