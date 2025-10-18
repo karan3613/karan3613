@@ -59,13 +59,6 @@ After years of building products in silence, I realized something: **why not sha
 > *"Why choose between coding and gaming when you can fail at both publicly?"*
 
 
-## 💡 What Drives Me
-
-Building products that matter. Not just features, not just demos—actual solutions people use daily. Whether it's an AI model that saves time or a mobile app that simplifies life, I'm here to ship.
-
-**Side quest:** Sharing the process, teaching others, and proving that solo developers can build competitive products.
-
-
 ## 🤝 Let's Build Together
 
 I'm always interested in:
