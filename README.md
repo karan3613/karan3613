@@ -24,8 +24,7 @@ I'm basically a one-person startup minus the funding and the stress of convincin
 
 **🤖 Neural Network Layer**
 - **Specialization:** Generative AI & Autonomous AI Agents
-- **Frameworks:** Python, TensorFlow, PyTorch *(teaching silicon to think, poorly but effectively)*
-- **Foundation:** Core Java & DSA *(the unglamorous stuff that keeps everything from imploding)*
+- **Frameworks:** Python, TensorFlow, PyTorch 
 - Building AI that solves actual problems, not just impresses VCs at demo day
 
 **⚙️ Backend Layer**
@@ -36,7 +35,6 @@ I'm basically a one-person startup minus the funding and the stress of convincin
 **🎯 Integration Layer (The Secret Sauce)**
 - **End-to-end product engineering:** Idea → Architecture → Code → Deploy → Monitor → Iterate
 - **AI-Mobile Fusion:** Embedding ML models into production apps without destroying UX
-- **DevOps Philosophy:** If it's not automated, it's not production-ready
 - Turning ambitious product visions into shipping code, not vaporware
 
 
